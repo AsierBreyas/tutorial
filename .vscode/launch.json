@@ -12,7 +12,8 @@
             "program": "${workspaceFolder}/bin/Debug/net5.0/tutorial.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
+            //"console": "internalConsole",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {
